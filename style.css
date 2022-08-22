@@ -59,15 +59,11 @@ body {
     background-color: transparent;
     color: white; 
     border: 0.2px dashed rgba(255, 255, 255, 0.188);
-}
-.textarea::placeholder {
-    font-size: 12px;
-}
+} 
 .counter-container {
   display: flex;
   justify-content: space-between;
-  margin: 10px 0px;
-  font-size: 10px;
+  margin: 10px 0px; 
 }
 @keyframes borderRadial {
   20% {
