@@ -11,6 +11,7 @@
   --c1: rgba(168, 239, 255, 1);
   --c2: rgba(168, 239, 255, 0.1);
 }
+
 @property --gradX {
   syntax: "<percentage>";
   initial-value: 50%;
@@ -66,6 +67,10 @@ body {
   margin: 10px 0px; 
 }
 @keyframes borderRadial {
+  0% {
+    --gradX: 50%;
+    --gradY: 0%;
+  }
   20% {
     --gradX: 100%;
     --gradY: 50%;
@@ -75,12 +80,12 @@ body {
     --gradY: 100%;
   }
   60% {
-    --gradX: 50%;
+    --gradX: 0%;
     --gradY: 100%;
   }
   80% {
     --gradX: 0%;
-    --gradY: 50%;
+    --gradY: 0%;
   }
   100% {
     --gradX: 50%;
