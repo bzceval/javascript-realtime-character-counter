@@ -48,6 +48,8 @@ body {
     background-color: transparent;
     color: white; 
     border: 0.2px dashed rgba(255, 255, 255, 0.188);
+    line-height: 1.5rem;
+    font-size: 1.3rem
 } 
 .counter-container {
   display: flex;
