@@ -1,9 +1,6 @@
 # JS-Macaron-Checkout-Shopping-App
 
 ## Description
-This project consists of an application that brings 5 ​​random colors at each renewal moment.
-   
-## Problem Statement
 
 - You can use [JS-Realtime Character Counter](https://github.com/bzceval/javascript-random-color-palette) template for project.
 
