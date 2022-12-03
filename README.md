@@ -25,3 +25,4 @@ Random Color Palette
 ```
    
 ## Demo
+![realtime](https://user-images.githubusercontent.com/100320309/205464584-aa9202f4-824f-4034-bfa2-a3d4a1221430.gif)
